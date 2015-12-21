@@ -6,11 +6,11 @@
 #    By: pbourdon <marvin@42.fr>                    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2015/12/05 19:29:16 by pbourdon          #+#    #+#              #
-#    Updated: 2015/12/05 19:29:18 by pbourdon         ###   ########.fr        #
+#    Updated: 2015/12/21 04:56:28 by pbourdon         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
-SRC_PATH = ./
+SRC_PATH = ./src/
 
 SRC_NAME = ft_atoi.c \
 		   ft_bzero.c \
@@ -70,11 +70,11 @@ SRC_NAME = ft_atoi.c \
 		   ft_lstadd.c \
 
 
-OBJ_PATH = ./
+OBJ_PATH = ./obj/
 
 INC_PATH = ./
 
-INC_PATH = ./
+
 LIB_NAME = libft.h
 
 NAME = libft.a
